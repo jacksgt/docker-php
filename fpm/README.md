@@ -4,6 +4,7 @@ PHP 7.2 container running FPM with the following extensions:
 
 * curl
 * gd
+* gettext
 * imagick
 * imap
 * json

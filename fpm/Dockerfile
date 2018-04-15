@@ -30,6 +30,7 @@ RUN docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-di
     docker-php-ext-install \
     curl \
     gd \
+    gettext \
     imap \
     json \
     ldap \
